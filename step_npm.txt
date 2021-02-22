@@ -1,0 +1,20 @@
+/**
+ * npm
+ * -Stands for node package manager.
+ * -It keeps tracks of what modules you get fromoutside.
+ * -Npm was installed with Node.js(when you didn't know it 
+ * was happining.)
+ * 
+*/
+
+/**
+ * 1. cmd cd移至專案目錄下
+ * 2. npm init
+ * 3. 例如安裝cowsay
+ * npm i cowsay
+ * 
+ * script用法
+ * 添加"myapp":"nodemon app.js"
+ * 執行 npm run myapp
+ * 即執行nodemon app.js
+ */

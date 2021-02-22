@@ -1,0 +1,15 @@
+{
+  "name": "practice_npm",
+  "version": "1.0.0",
+  "description": "This is for learning npm and node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "myapp":"nodemon app.js"
+  },
+  "author": "Wilson Ren",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
